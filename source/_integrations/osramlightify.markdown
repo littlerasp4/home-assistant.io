@@ -13,7 +13,7 @@ The `osramlightify` platform allows you to integrate your [Osram Lightify](https
 # Example configuration.yaml entry
 light:
   - platform: osramlightify
-    host: IP_ADDRESS
+    host: 192.168.0.24
 ```
 
 {% configuration %}
